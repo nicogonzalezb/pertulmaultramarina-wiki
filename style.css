@@ -1,0 +1,77 @@
+:root {
+  color-scheme: light dark;
+  --fg: #1a1a1a;
+  --muted: #555;
+  --bg: #f7f7fb;
+  --card: #fff;
+  --border: #e2e2ea;
+  --link: #120A8F;
+  --accent: #120A8F;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #f2f2f2;
+    --muted: #b0b0b0;
+    --bg: #101018;
+    --card: #1a1a24;
+    --border: #333345;
+    --link: #9aa0ff;
+    --accent: #9aa0ff;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif;
+  line-height: 1.65;
+  color: var(--fg);
+  background: var(--bg);
+}
+.site, header, main, footer {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.25rem 1rem;
+}
+.site {
+  padding-top: 1rem;
+  padding-bottom: 0;
+  border-top: 4px solid var(--accent);
+  font-size: .95rem;
+}
+.site .brand { font-weight: 700; text-decoration: none; display: inline-block; margin-bottom: .35rem; }
+.site ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem .9rem; }
+.site li { margin: 0; }
+.site a[aria-current="page"] { font-weight: 700; text-decoration: none; color: var(--fg); }
+.crumbs { color: var(--muted); font-size: .9rem; margin: 0 0 .5rem; }
+h1 { font-size: 1.75rem; line-height: 1.25; margin: 0 0 .75rem; color: var(--accent); }
+h2 { font-size: 1.2rem; margin: 2rem 0 .75rem; }
+h3 { font-size: 1.05rem; margin: 1.5rem 0 .5rem; }
+p, li { margin: .55rem 0; }
+a { color: var(--link); }
+.lede { font-size: 1.05rem; }
+.meta { color: var(--muted); font-size: .95rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+}
+.card h2:first-child, .card h3:first-child { margin-top: 0; }
+nav.toc a { margin-right: .75rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: .75rem; padding: 0; list-style: none; }
+.grid li { margin: 0; }
+.grid .card { margin: 0; height: 100%; }
+.grid .card a { font-weight: 600; }
+table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+.table-wrap { overflow-x: auto; }
+th, td { text-align: left; vertical-align: top; padding: .5rem .6rem; border-bottom: 1px solid var(--border); }
+th { font-weight: 600; }
+footer {
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+  color: var(--muted);
+  font-size: .9rem;
+}
+dt { font-weight: 600; margin-top: 1rem; }
+dd { margin: .25rem 0 0 0; }
