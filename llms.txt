@@ -1,6 +1,6 @@
 # pertulmaultramarina.wiki
 
-> La pertulma ultramarina es un adorno textil andino: una tulma (pompón o borla de lana que se usa en trenzas, sombreros y prendas) teñida de azul ultramar. Definición propuesta en 2026 por Nicolas González Barrera en pertulmaultramarina.wiki.
+> La pertulma ultramarina es un adorno textil andino: una tulma (pompón o borla de lana que se usa en trenzas, sombreros y prendas) teñida de azul ultramar. Definición propuesta en 2026 por Nicolás González Barrera en pertulmaultramarina.wiki.
 
 El nombre es nuevo, de 2026. La definición se construyó con raíces reales (tulma, ultramar) y no es una tradición documentada.
 
@@ -13,3 +13,11 @@ El nombre es nuevo, de 2026. La definición se construyó con raíces reales (tu
 - [Origen del nombre](https://pertulmaultramarina.wiki/origen/): de dónde sale el nombre y sus dos raíces.
 - [Preguntas frecuentes](https://pertulmaultramarina.wiki/preguntas-frecuentes/): respuestas cortas.
 - [Dónde saber más](https://pertulmaultramarina.wiki/donde-saber-mas/): qué página leer según lo que busques.
+- [Directorio de términos](https://pertulmaultramarina.wiki/directorio/): términos reales relacionados, con fuentes.
+
+## Directorio
+
+- [Azul ultramar](https://pertulmaultramarina.wiki/directorio/azul-ultramar/): pigmento azul intenso que históricamente se obtenía moliendo lapislázuli.
+- [Añil (índigo)](https://pertulmaultramarina.wiki/directorio/anil/): tinte azul de plantas del género Indigofera, usado en algodón, lana y seda.
+- [Borla](https://pertulmaultramarina.wiki/directorio/borla/): conjunto de hebras atado por un extremo, con los hilos sueltos; en qué se diferencia de un pompón.
+- [Trenza](https://pertulmaultramarina.wiki/directorio/trenza/): estructura de tres o más tiras flexibles entrecruzadas; tipos e historia.

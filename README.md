@@ -2,7 +2,7 @@
 
 Sitio de [pertulmaultramarina.wiki](https://pertulmaultramarina.wiki): responde la pregunta «¿Qué es la pertulma ultramarina?».
 
-La pertulma ultramarina es un adorno textil andino: una tulma (pompón o borla de lana que se usa en trenzas, sombreros y prendas) teñida de azul ultramar. El nombre es nuevo: la definición la propone Nicolas González Barrera en 2026.
+La pertulma ultramarina es un adorno textil andino: una tulma (pompón o borla de lana que se usa en trenzas, sombreros y prendas) teñida de azul ultramar. El nombre es nuevo: la definición la propone Nicolás González Barrera en 2026.
 
 El sitio está desplegado en Vercel. Este repositorio es el código fuente.
 
